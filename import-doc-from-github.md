@@ -2,7 +2,7 @@
 
 ## 在 GitHub 新建文档 Repo
 
-Love2.io 支持从 GitHub 导入文档。
+Love2.io 目前仅支持从 GitHub 导入的方式发布文档。所以作者需要先在 GitHub 建立一个 Repo 用于撰写文档。
 
 默认取 GitHub 对应文档仓库的 maser 分支的最新内容。请务必保证该仓库 master 分支的根目录存在索引文件 SUMMARY.md（大小写敏感）。该索引文件记录了文档的各个章节的标题和对应源文件的链接。
 
