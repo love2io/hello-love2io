@@ -1,6 +1,6 @@
 # 从 GitHub 导入文档
 
-### 在 GitHub 新建文档 Repo
+## 在 GitHub 新建文档 Repo
 
 Love2.io 支持从 GitHub 导入文档。
 
