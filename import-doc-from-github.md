@@ -23,5 +23,5 @@ SUMMARY.md 文件示例
     * [第一节](chapter4/section1.md)
 ```
 
-![](/assets/Jietu20180122-102511.jpg)
+![](/assets/summary.png)
 
