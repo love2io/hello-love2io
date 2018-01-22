@@ -12,3 +12,15 @@ Love2.io 目前仅支持从 GitHub 导入的方式发布文档。所以作者需
 
 SUMMARY.md 文件示例![](/assets/summary.png)
 
+更多 SUMMARY.md 实例
+
+[https://raw.love2.io/gaolinjie/MachineLearning/master/SUMMARY.md](https://raw.love2.io/gaolinjie/MachineLearning/master/SUMMARY.md)
+
+[https://raw.love2.io/ayamefing/react-tutorial/master/SUMMARY.md](https://raw.love2.io/ayamefing/react-tutorial/master/SUMMARY.md)
+
+
+
+> SUMMARY.md 文件中每行索引之间不能有空行，否则会造成解析错误。
+
+
+
