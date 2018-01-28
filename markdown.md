@@ -2,7 +2,7 @@
 
 
 
-这部分内容列出了 John Gruber 定义的[Markdown 语法](http://daringfireball.net/projects/markdown/syntax)，包括：
+这部分内容列出了支持的 Markdown 语法，包括：
 
 * [段落与换行](https://love2.io/@love2io/doc/Learning-Markdown/article/syntax/paragraphs-and-line-breaks.md)
 * [标题](https://love2.io/@love2io/doc/Learning-Markdown/article/syntax/headers.md)

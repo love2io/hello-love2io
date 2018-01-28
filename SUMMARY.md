@@ -13,4 +13,8 @@
   * [图像](tu-xiang.md)
   * [强调](markdown/emphasis.md)
   * [字符转义](markdown/blackslash-escapes.md)
+  * [删除线](markdown/strikethrougn.md)
+  * [代码块和语法高亮](markdown/code-blocks-and-highlighting.md)
+  * [表格](markdown/biao-ge.md)
+  * [Task List](markdown/task-list.md)
 
