@@ -22,7 +22,6 @@ Task List
     -ms-user-select: none;
     user-select: none;
     overflow-x: auto;
-"><ul>
-<li style="list-style: none"><input type="checkbox" disabled=""> Eat</li><li style="list-style: none"><input type="checkbox" disabled="" checked=""> Code<ul>
+"><ul><li style="list-style: none"><input type="checkbox" disabled=""> Eat</li><li style="list-style: none"><input type="checkbox" disabled="" checked=""> Code<ul>
 <li style="list-style: none"><input type="checkbox" disabled="" checked=""> HTML</li><li style="list-style: none"><input type="checkbox" disabled="" checked=""> CSS</li><li style="list-style: none"><input type="checkbox" disabled="" checked=""> JavaScript</li></ul>
 </li><li style="list-style: none"><input type="checkbox" disabled=""> Sleep</li></ul></div>
