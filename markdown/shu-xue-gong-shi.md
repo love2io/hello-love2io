@@ -27,5 +27,5 @@ p(D) = \int p(D|w)P(w)dw \tag{1.45}
 $$
 它由一对$$符号包裹。
 
-## 公式语法
-更多公式语法参考这个说明 [https://khan.github.io/KaTeX/function-support.html](https://khan.github.io/KaTeX/function-support.html)
+## KaTeX 语法
+更多 KaTeX 语法参考这个说明 [https://khan.github.io/KaTeX/function-support.html](https://khan.github.io/KaTeX/function-support.html)
