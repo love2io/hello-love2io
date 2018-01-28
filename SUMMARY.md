@@ -17,4 +17,5 @@
   * [代码块和语法高亮](markdown/code-blocks-and-highlighting.md)
   * [表格](markdown/biao-ge.md)
   * [Task List](markdown/task-list.md)
+  * [数学公式](markdown/shu-xue-gong-shi.md)
 
