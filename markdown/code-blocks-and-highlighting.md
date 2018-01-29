@@ -22,7 +22,7 @@
     -ms-user-select: none;
     user-select: none;
     overflow-x: auto;
-"><pre><code><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>code here<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+"><pre><code class="markdown"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>code here<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 </code></pre></div>
 
 >三个 \`\`\` 要独占一行。
@@ -32,7 +32,7 @@
 
 在上面的代码块语法基础上，在第一组 \`\`\` 之后添加代码的语言，如 'javascript' 或 'js'，即可将代码标记为 `JavaScript`：
 
-<pre><code class="js">```js<br><span class="hljs-built_in">window</span>.addEventListener(<span class="hljs-string">'load'</span>, <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) </span>{
+<pre><code class="markdown">```js<br><span class="hljs-built_in">window</span>.addEventListener(<span class="hljs-string">'load'</span>, <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params"></span>) </span>{
   <span class="hljs-built_in">console</span>.log(<span class="hljs-string">'window loaded'</span>);
 });
 ```</code></pre>
