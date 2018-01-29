@@ -1,15 +1,13 @@
 分隔线
 ====
 
-1\. 可以在一行中使用三个或更多的 `*`、`-` 或 `_` 来添加分隔线（`<hr>`）：
+1\. 可以在一行中使用三个或更多的 `-` 或 `_` 来添加分隔线（`<hr>`）：
 
 ```markdown
-***
 ------
 ___
 ```
 
-***
 ------
 ___
 
@@ -20,6 +18,17 @@ ___
 - - -
 ```
 
-* * *
-- - -
+<div style="
+    border: 1px solid #eee;
+    border-radius: 2px;
+    padding: 25px 35px;
+    margin-top: 1em;
+    margin-bottom: 40px;
+    line-height: 1.5em;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    overflow-x: auto;
+"><hr><hr></div>
 
