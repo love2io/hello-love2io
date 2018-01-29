@@ -6,7 +6,7 @@
 
 与原来使用缩进来添加代码块的语法不同，这里使用 \`\`\` \`\`\` 来包含多行代码：
 
-<pre><code>```<br><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>code here<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+<pre><code class="markdown">```<br><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>code here<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 ```
 </code></pre>
 
@@ -22,7 +22,7 @@
     -ms-user-select: none;
     user-select: none;
     overflow-x: auto;
-"><pre><code class="markdown"><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>code here<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+"><pre><code><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>code here<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
 </code></pre></div>
 
 >三个 \`\`\` 要独占一行。
